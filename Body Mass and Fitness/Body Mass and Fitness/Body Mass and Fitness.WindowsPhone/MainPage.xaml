@@ -1,0 +1,125 @@
+﻿<Page
+    x:Class="Body_Mass_and_Fitness.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Body_Mass_and_Fitness"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    
+    <Page.BottomAppBar>
+        <CommandBar Visibility="Visible">
+            <AppBarButton
+                Icon="Clear" 
+                Label="Clear!" 
+                Name="clearBtn"
+                Click="clearBtn_Click">
+            </AppBarButton>
+            
+            <AppBarButton
+                Name="exitApp" 
+                Icon="Home"
+                Label="Exit"
+                Click="exitApp_Click">               
+            </AppBarButton>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock 
+                Text="BMI And Fitness" 
+                Style="{ThemeResource TitleTextBlockStyle}" 
+                Margin="0,12,0,0" />
+            <TextBlock 
+                Text="Know your BMI" 
+                Margin="0,-6.5,0,26.5" 
+                Style="{ThemeResource HeaderTextBlockStyle}" 
+                CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.833,19,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="83*"/>
+                <RowDefinition Height="418*"/>
+            </Grid.RowDefinitions>
+            <TextBlock 
+                HorizontalAlignment="Left" 
+                Height="80" 
+                TextWrapping="Wrap" 
+                Text="Enter your Height and weight to know whether your weight is perfectly balanced with you height" 
+                FontSize="20"
+                VerticalAlignment="Top" 
+                Width="342" Margin="10,0,0,0"/>
+            <TextBlock
+                HorizontalAlignment="Left"
+                Height="39" 
+                Margin="10,33.5,0,0"
+                Grid.Row="1" 
+                TextWrapping="Wrap"
+                Text="Weight (kilograms)" 
+                FontSize="18"
+                VerticalAlignment="Top" 
+                Width="163"/>
+            <TextBox 
+                x:Name="weightData"
+                HorizontalAlignment="Left" 
+                Height="21" 
+                Margin="194,33.5,0,0" 
+                Grid.Row="1" 
+                TextWrapping="Wrap" 
+                Text=""
+                InputScope="Number"
+                VerticalAlignment="Top" 
+                Width="158"/>
+            <TextBlock
+            	HorizontalAlignment="Left"
+            	Height="39" 
+            	Margin="10,108.5,0,0"
+            	Grid.Row="1" 
+            	TextWrapping="Wrap"
+            	Text="Height (meters)" 
+            	FontSize="18"
+            	VerticalAlignment="Top" 
+            	Width="163"/>
+            <TextBox 
+                x:Name="heightData"
+            	HorizontalAlignment="Left" 
+            	Height="21" 
+            	Margin="194,108.5,0,0" 
+            	Grid.Row="1" 
+            	TextWrapping="Wrap" 
+            	Text=""
+            	InputScope="Number"
+            	VerticalAlignment="Top" 
+            	Width="158"/>
+            <Button x:Name="calcBmiButton" 
+                    Content="Calculate!" 
+                    HorizontalAlignment="Left" 
+                    Height="116" 
+                    Margin="61,202.5,0,0" 
+                    Grid.Row="1" 
+                    VerticalAlignment="Top"
+                    Width="222"
+                    Click="showResult"/>
+
+
+
+        </Grid>
+    </Grid>
+</Page>
