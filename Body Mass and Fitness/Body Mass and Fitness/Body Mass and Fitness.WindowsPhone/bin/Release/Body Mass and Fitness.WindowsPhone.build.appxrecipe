@@ -7,59 +7,59 @@
     <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>d570eddd-7d68-44f1-8e6f-3aee85642306</PackageIdentityName>
-    <IntermediateOutputPath>I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\AppxManifest.xml">
+    <AppXManifest Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\Body Mass and Fitness.WindowsPhone.exe">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\Body Mass and Fitness.WindowsPhone.exe">
       <PackagePath>Body Mass and Fitness.WindowsPhone.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\Logo.scale-240.png">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\SmallLogo.scale-240.png">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
       <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\WideLogo.scale-240.png">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\App.xbf">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\InfoPage.xbf">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\InfoPage.xbf">
       <PackagePath>InfoPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\MainPage.xbf">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\Body Mass and Fitness.WindowsPhone.xr.xml">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\Body Mass and Fitness.WindowsPhone.xr.xml">
       <PackagePath>Body Mass and Fitness.WindowsPhone.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\resources.pri">
+    <AppxPackagedFile Include="I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

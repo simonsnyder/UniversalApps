@@ -35,3 +35,40 @@ I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body
 I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\qualifiers.txt.intermediate
 I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
 I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\ProjectArchitectures.txt
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\App.xbf
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\InfoPage.xbf
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\MainPage.xbf
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\Body Mass and Fitness.WindowsPhone.xr.xml
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\Body Mass and Fitness.WindowsPhone.exe
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\Body Mass and Fitness.WindowsPhone.pdb
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\resources.pri
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\AppxManifest.xml
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\Body Mass and Fitness.WindowsPhone.build.appxrecipe
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\App.g.i.cs
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\App.g.cs
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\InfoPage.g.i.cs
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\InfoPage.g.cs
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\MainPage.g.i.cs
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\MainPage.g.cs
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\App.xaml
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\InfoPage.xaml
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\MainPage.xaml
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\App.xbf
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\InfoPage.xbf
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\MainPage.xbf
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\Body Mass and Fitness.WindowsPhone.exe
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\Body Mass and Fitness.WindowsPhone.pdb
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\priconfig.xml
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\priconfig.xml.intermediate
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\layout.resfiles
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\layout.resfiles.intermediate
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\resources.resfiles
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\resources.resfiles.intermediate
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\pri.resfiles
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\pri.resfiles.intermediate
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\qualifiers.txt
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\ProjectArchitectures.txt

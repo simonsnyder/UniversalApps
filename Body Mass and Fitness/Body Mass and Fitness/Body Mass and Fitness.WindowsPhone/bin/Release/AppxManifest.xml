@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="32025ShawonAshraf.BMIAndFitness" Publisher="CN=6C1B1C86-4FDB-4F64-BED3-1A1D319A559F" Version="1.1.0.0" ProcessorArchitecture="neutral" />
+  <Identity Name="32025ShawonAshraf.BMIAndFitness" Publisher="CN=6C1B1C86-4FDB-4F64-BED3-1A1D319A559F" Version="1.1.0.1" ProcessorArchitecture="neutral" />
   <mp:PhoneIdentity PhoneProductId="d570eddd-7d68-44f1-8e6f-3aee85642306" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>BMI And Fitness</DisplayName>

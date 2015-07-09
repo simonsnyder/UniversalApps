@@ -4,7 +4,7 @@
 "ResourceDimensions"		"language-en-US"
 
 [Files]
-"I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\split.pri"			"resources.pri"
+"I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\split.pri"			"resources.pri"
 "I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\PackageLayout\MainPage.xbf"			"MainPage.xbf"
 "I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\PackageLayout\InfoPage.xbf"			"InfoPage.xbf"
 "I:\Coding\Windows Universal and Phone apps dev\WindowsUniversalAndPhoneApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\obj\Release\PackageLayout\Body Mass and Fitness.WindowsPhone.xr.xml"			"Body Mass and Fitness.WindowsPhone.xr.xml"

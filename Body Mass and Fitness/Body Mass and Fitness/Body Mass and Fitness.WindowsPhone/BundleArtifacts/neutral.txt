@@ -1,0 +1,3 @@
+MainPackage=I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\Body Mass and Fitness.WindowsPhone_1.1.0.1_Bundle\Body Mass and Fitness.WindowsPhone_1.1.0.1_AnyCPU.appx
+SymbolPackage=I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\AppPackages\Body Mass and Fitness.WindowsPhone_1.1.0.1_Test\Body Mass and Fitness.WindowsPhone_1.1.0.1_AnyCPU.appxsym
+ResourcePack=I:\Coding\App Dev\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.WindowsPhone\bin\Release\Body Mass and Fitness.WindowsPhone_1.1.0.1_Bundle\Body Mass and Fitness.WindowsPhone_1.1.0.1_scale-100.appx
