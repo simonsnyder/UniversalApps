@@ -1,0 +1,37 @@
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Release\App.xbf
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Release\InfoPage.xbf
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Release\MainPage.xbf
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Release\Body Mass and Fitness.Windows.xr.xml
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Release\Body Mass and Fitness.Windows.exe
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Release\Body Mass and Fitness.Windows.pdb
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Release\resources.pri
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Release\AppxManifest.xml
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Release\Body Mass and Fitness.Windows.build.appxrecipe
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\App.g.i.cs
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\App.g.cs
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\InfoPage.g.i.cs
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\InfoPage.g.cs
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\MainPage.g.i.cs
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\MainPage.g.cs
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\XamlTypeInfo.g.cs
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\App.xaml
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\InfoPage.xaml
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\MainPage.xaml
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\App.xbf
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\InfoPage.xbf
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\MainPage.xbf
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\XamlSaveStateFile.xml
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\Body Mass and Fitness.Windows.exe
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\Body Mass and Fitness.Windows.pdb
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\priconfig.xml
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\priconfig.xml.intermediate
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\layout.resfiles
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\layout.resfiles.intermediate
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\resources.resfiles
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\resources.resfiles.intermediate
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\pri.resfiles
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\pri.resfiles.intermediate
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\qualifiers.txt
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\qualifiers.txt.intermediate
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\MultipleQualifiersPerDimensionFound.txt
+I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Release\ProjectArchitectures.txt
