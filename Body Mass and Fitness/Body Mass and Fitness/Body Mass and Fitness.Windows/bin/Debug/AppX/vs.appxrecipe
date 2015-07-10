@@ -20,13 +20,13 @@
     <AppXManifest Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-07-10T01:23:27.737</Modified>
+      <Modified>2015-07-10T01:31:35.580</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\Body Mass and Fitness.Windows.exe">
       <PackagePath>Body Mass and Fitness.Windows.exe</PackagePath>
-      <Modified>2015-07-10T01:23:27.666</Modified>
+      <Modified>2015-07-10T01:31:35.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -76,7 +76,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-07-10T01:23:27.703</Modified>
+      <Modified>2015-07-10T01:31:35.540</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

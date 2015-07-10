@@ -637,3 +637,4 @@ namespace Body_Mass_and_Fitness.Body_Mass_and_Fitness_Windows_XamlTypeInfo
 
 
 
+
