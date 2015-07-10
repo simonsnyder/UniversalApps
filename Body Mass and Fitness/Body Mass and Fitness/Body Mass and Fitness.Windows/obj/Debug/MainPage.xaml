@@ -103,7 +103,7 @@
                 <CompositeTransform Rotation="0.336" TranslateX="-0.337" TranslateY="0.077"/>
             </TextBox.RenderTransform>
         </TextBox>
-        <Button x:Name="calcBmiButton" 
+        <Button x:ConnectionId='1' x:Name="calcBmiButton" 
                     Content="Calculate!" 
                 FontSize="35"
                     HorizontalAlignment="Left" 
@@ -112,26 +112,27 @@
                     Grid.Row="1" 
                     VerticalAlignment="Top"
                     Width="222"
-                    Click="showResult"/>
+                                      />
 
     </Grid>
 
     <Page.BottomAppBar>
         <CommandBar Visibility="Visible">
-            <AppBarButton
+            <AppBarButton x:ConnectionId='2'
                 Icon="Clear" 
                 Label="Clear!" 
                 Name="clearBtn"
-                Click="clearBtn_Click">
+                                      >
             </AppBarButton>
 
-            <AppBarButton
+            <AppBarButton x:ConnectionId='3'
                 Name="exitApp" 
                 Icon="Home"
                 Label="Exit"
-                Click="exitApp_Click">
+                                     >
             </AppBarButton>
         </CommandBar>
     </Page.BottomAppBar>
 
 </Page>
+

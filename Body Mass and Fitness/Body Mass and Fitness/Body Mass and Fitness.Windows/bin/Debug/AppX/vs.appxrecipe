@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KAMLAPC</Machine>
+    <WindowsUser>Shawon</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f4cfb42d-1159-4801-90c1-158c3c226cb2</PackageIdentityName>
+    <IntermediateOutputPath>I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>51F384804693B4057A36D6858A2F20128977435872F88A61236C66BAC17227E2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f4cfb42d-1159-4801-90c1-158c3c226cb2_1.0.0.0_neutral__gm6ynceb1h55r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f4cfb42d-1159-4801-90c1-158c3c226cb2_gm6ynceb1h55r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f4cfb42d-1159-4801-90c1-158c3c226cb2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Shawon</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-10T01:13:32.133</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\Body Mass and Fitness.Windows.exe">
+      <PackagePath>Body Mass and Fitness.Windows.exe</PackagePath>
+      <Modified>2015-07-10T01:13:32.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-10T00:32:54.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\InfoPage.xbf">
+      <PackagePath>InfoPage.xbf</PackagePath>
+      <Modified>2015-07-10T00:56:29.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-10T01:13:31.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\Body Mass and Fitness.Windows.xr.xml">
+      <PackagePath>Body Mass and Fitness.Windows.xr.xml</PackagePath>
+      <Modified>2015-07-10T01:13:10.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-10T01:13:32.099</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

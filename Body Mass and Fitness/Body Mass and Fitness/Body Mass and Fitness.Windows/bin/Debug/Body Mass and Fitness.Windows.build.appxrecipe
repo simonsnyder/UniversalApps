@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KAMLAPC</Machine>
+    <WindowsUser>Shawon</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f4cfb42d-1159-4801-90c1-158c3c226cb2</PackageIdentityName>
+    <IntermediateOutputPath>I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\Body Mass and Fitness.Windows.exe">
+      <PackagePath>Body Mass and Fitness.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\InfoPage.xbf">
+      <PackagePath>InfoPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\Body Mass and Fitness.Windows.xr.xml">
+      <PackagePath>Body Mass and Fitness.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\UniversalApps\UniversalApps\Body Mass and Fitness\Body Mass and Fitness\Body Mass and Fitness.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

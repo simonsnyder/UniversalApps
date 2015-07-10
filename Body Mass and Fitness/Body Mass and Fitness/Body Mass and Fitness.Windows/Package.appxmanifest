@@ -1,38 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-
-  <Identity Name="f4cfb42d-1159-4801-90c1-158c3c226cb2"
-            Publisher="CN=Shawon"
-            Version="1.0.0.0" />
-
+  <Identity Name="32025ShawonAshraf.BMIAndFitness" Publisher="CN=6C1B1C86-4FDB-4F64-BED3-1A1D319A559F" Version="1.1.0.0" />
   <Properties>
-    <DisplayName>Body Mass and Fitness.Windows</DisplayName>
-    <PublisherDisplayName>Shawon</PublisherDisplayName>
+    <DisplayName>BMI And Fitness</DisplayName>
+    <PublisherDisplayName>Shawon Ashraf</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
-
   <Prerequisites>
     <OSMinVersion>6.3.0</OSMinVersion>
     <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
   </Prerequisites>
-
   <Resources>
-    <Resource Language="x-generate"/>
+    <Resource Language="x-generate" />
   </Resources>
-
   <Applications>
-    <Application Id="App"
-        Executable="$targetnametoken$.exe"
-        EntryPoint="Body_Mass_and_Fitness.Windows.App">
-        <m2:VisualElements
-            DisplayName="Body Mass and Fitness.Windows"
-            Square150x150Logo="Assets\Logo.png"
-            Square30x30Logo="Assets\SmallLogo.png"
-            Description="Body Mass and Fitness.Windows"
-            ForegroundText="light"
-            BackgroundColor="#464646">
-            <m2:SplashScreen Image="Assets\SplashScreen.png" />
-        </m2:VisualElements>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Body_Mass_and_Fitness.Windows.App">
+      <m2:VisualElements DisplayName="BMI And Fitness" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="Body Mass and Fitness.Windows" ForegroundText="light" BackgroundColor="#464646">
+        <m2:SplashScreen Image="Assets\SplashScreen.png" />
+      </m2:VisualElements>
     </Application>
   </Applications>
   <Capabilities>
